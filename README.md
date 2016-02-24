@@ -3,6 +3,7 @@
 
 >https://code.angularjs.org/
 
+>https://www.fprintf.net/vimCheatSheet.html
 
 # Angular Event Registration — Demo Application for Angular JS
 
